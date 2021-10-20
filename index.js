@@ -62,8 +62,3 @@ function getNextEmployee() {
     });
 }
 
-
-
-module.exports = Employee;
-
-
